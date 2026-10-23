@@ -27,7 +27,7 @@ PRODUCTS = {
         "name": "Street Mode Tee",
         "price": 179,
         "category": "Tees",
-        "image": "https://images.unsplash.com/photo-1625910513413-5fc45e7d4c0a?auto=format&fit=crop&w=600&q=80"
+        "image": "https://6adb4520086c9bf074107a7f.imgix.net/sandbox/images%20(1).jpg"
     },
 
     "polo": {
